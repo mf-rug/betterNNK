@@ -1,0 +1,6 @@
+.DS_Store
+literature/
+research/paper-*.txt
+node_modules/
+.env
+.env.*
